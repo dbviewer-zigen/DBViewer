@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DBViewerPlugin
+Bundle-SymbolicName: zigen.plugin.db;singleton:=true
+Bundle-Version: 2.0.0.v20180907
+Bundle-ClassPath: .,
+ lib/sql-formatter-1.0.0.jar,
+ lib/sql-parser-1.0.0.jar,
+ lib/blancosqlformatter-0.0.3.jar
+Bundle-Activator: zigen.plugin.db.DbPlugin
+Bundle-Vendor: ZIGEN
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.ui.views,
+ org.eclipse.core.runtime,
+ org.eclipse.ui.editors,
+ org.eclipse.ui.ide,
+ org.eclipse.core.resources,
+ org.eclipse.jface.text,
+ org.eclipse.ui.workbench.texteditor,
+ org.eclipse.compare,
+ org.eclipse.core.expressions
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+

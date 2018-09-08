@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv
+END
+AbstractCsvMappingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/AbstractCsvMappingFactory.java
+END
+CreateCSVAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/CreateCSVAction.java
+END
+CreateCSVForQueryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/CreateCSVForQueryAction.java
+END
+CreateCSVForTableWithConditionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/CreateCSVForTableWithConditionAction.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/Messages.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/messages.properties
+END
+CSVWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/CSVWriter.java
+END
+ICsvMappingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/ICsvMappingFactory.java
+END
+messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/messages_ja.properties
+END
+CSVConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/CSVConfig.java
+END
+CreateCSVForTableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/CreateCSVForTableAction.java
+END
+OracleCsvMappingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/OracleCsvMappingFactory.java
+END
+DefaultCsvMappingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/csv/DefaultCsvMappingFactory.java
+END

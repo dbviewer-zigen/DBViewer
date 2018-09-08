@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/dbviewer/!svn/ver/251/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions
+END
+RegistBookmarkFolderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/RegistBookmarkFolderAction.java
+END
+RemoveBookmarkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/RemoveBookmarkAction.java
+END
+ITableViewEditorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ITableViewEditorAction.java
+END
+CommitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CommitAction.java
+END
+AbstractCopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/AbstractCopyAction.java
+END
+CopyBothColumnNameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyBothColumnNameAction.java
+END
+CopyColumnNameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyColumnNameAction.java
+END
+ExportDBConfigAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ExportDBConfigAction.java
+END
+CopyDBAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyDBAction.java
+END
+OpenSourceEdirotAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/dbviewer/!svn/ver/199/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/OpenSourceEdirotAction.java
+END
+AutoDelayListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/dbviewer/!svn/ver/195/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/AutoDelayListener.java
+END
+PasteRecordDataAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/PasteRecordDataAction.java
+END
+PrevSQLExecAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/PrevSQLExecAction.java
+END
+ConfirmConnectDBAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/dbviewer/!svn/ver/216/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ConfirmConnectDBAction.java
+END
+EditDBAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/EditDBAction.java
+END
+CopyCommentStatementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/dbviewer/!svn/ver/207/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyCommentStatementAction.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/dbviewer/!svn/ver/237/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/messages.properties
+END
+messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/dbviewer/!svn/ver/237/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/messages_ja.properties
+END
+GlobalAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dbviewer/!svn/ver/238/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/GlobalAction.java
+END
+CopyColumnNameWithTableNameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyColumnNameWithTableNameAction.java
+END
+RefreshAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dbviewer/!svn/ver/207/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/RefreshAction.java
+END
+CloseDBAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dbviewer/!svn/ver/251/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CloseDBAction.java
+END
+CollapseAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CollapseAllAction.java
+END
+ToggleLinkingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ToggleLinkingAction.java
+END
+ShutDownDBAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ShutDownDBAction.java
+END
+RegistDBAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/RegistDBAction.java
+END
+ReplaceSemicron2SuraAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ReplaceSemicron2SuraAction.java
+END
+CopyRecordTrimDataAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/dbviewer/!svn/ver/207/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyRecordTrimDataAction.java
+END
+SaveSQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/SaveSQLAction.java
+END
+CopyRecordDataAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyRecordDataAction.java
+END
+RenameTableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/RenameTableAction.java
+END
+OpenViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/OpenViewAction.java
+END
+ExecuteCurrentSQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/dbviewer/!svn/ver/251/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ExecuteCurrentSQLAction.java
+END
+ShowPluginVersionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/dbviewer/!svn/ver/207/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ShowPluginVersionAction.java
+END
+SQLToLowerCaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/SQLToLowerCaseAction.java
+END
+RemoveBookmarkFolderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/RemoveBookmarkFolderAction.java
+END
+OpenSQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/OpenSQLAction.java
+END
+RollbackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/RollbackAction.java
+END
+RenameBookmarkFolderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/RenameBookmarkFolderAction.java
+END
+CopyInsertStatementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyInsertStatementAction.java
+END
+ExecuteScriptAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/dbviewer/!svn/ver/168/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ExecuteScriptAction.java
+END
+LoadColumnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/LoadColumnAction.java
+END
+DeleteRecordAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dbviewer/!svn/ver/207/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/DeleteRecordAction.java
+END
+ShowHistoryViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ShowHistoryViewAction.java
+END
+ExecuteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ExecuteAction.java
+END
+CopyLogicalColumnNameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyLogicalColumnNameAction.java
+END
+NextSQLExecAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/NextSQLExecAction.java
+END
+RegistBookmarkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/RegistBookmarkAction.java
+END
+DeleteHistoryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/DeleteHistoryAction.java
+END
+CopyTableNameWithRemarksAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyTableNameWithRemarksAction.java
+END
+LockColumnWidthAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/LockColumnWidthAction.java
+END
+SQLFormatAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/SQLFormatAction.java
+END
+CopyTableNameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyTableNameAction.java
+END
+RemoveDBAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/dbviewer/!svn/ver/251/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/RemoveDBAction.java
+END
+CopySchemaNameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopySchemaNameAction.java
+END
+PurgeRecyclebinAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/PurgeRecyclebinAction.java
+END
+ExecuteSelectedSQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/dbviewer/!svn/ver/251/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ExecuteSelectedSQLAction.java
+END
+AbstractExecuteSQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/dbviewer/!svn/ver/251/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/AbstractExecuteSQLAction.java
+END
+ExecuteSQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/dbviewer/!svn/ver/251/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ExecuteSQLAction.java
+END
+DeleteFromTableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/DeleteFromTableAction.java
+END
+AbstractCopyStatementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/AbstractCopyStatementAction.java
+END
+CopyColumnNameWithRemarksAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyColumnNameWithRemarksAction.java
+END
+OpenEditorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/OpenEditorAction.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/Messages.java
+END
+SelectAllRecordAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/SelectAllRecordAction.java
+END
+CopySQLForStringBuilderContextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopySQLForStringBuilderContextAction.java
+END
+ShowDriverVersionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ShowDriverVersionAction.java
+END
+AbstractToggleLinkingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/AbstractToggleLinkingAction.java
+END
+DropTreeNodeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dbviewer/!svn/ver/173/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/DropTreeNodeAction.java
+END
+CopySQLForStringBufferContextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopySQLForStringBufferContextAction.java
+END
+InsertRecordAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/InsertRecordAction.java
+END
+RemoveSQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/RemoveSQLAction.java
+END
+ReplaceSura2SemicronAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ReplaceSura2SemicronAction.java
+END
+SQLToUpperCaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/SQLToUpperCaseAction.java
+END
+ConnectDBAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ConnectDBAction.java
+END
+LockDataBaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/LockDataBaseAction.java
+END
+ImportDBConfigAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/ImportDBConfigAction.java
+END
+MaxRecordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/MaxRecordException.java
+END
+TableViewEditorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/TableViewEditorAction.java
+END
+CopyCreateStatementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/dbviewer/!svn/ver/208/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyCreateStatementAction.java
+END
+CopySelectStatementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopySelectStatementAction.java
+END
+CopySQLForStringBuffer2ContextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopySQLForStringBuffer2ContextAction.java
+END
+CopyLogicalColumnNameWithTableNameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyLogicalColumnNameWithTableNameAction.java
+END
+CopySQLForStringBuilderContext2Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopySQLForStringBuilderContext2Action.java
+END
+CopyBothColumnNameWithTableNameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/CopyBothColumnNameWithTableNameAction.java
+END
+SQLSourceViewerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/actions/SQLSourceViewerAction.java
+END

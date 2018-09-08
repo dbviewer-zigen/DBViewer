@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dbviewer/!svn/ver/207/DBViewer/branches/2.0.0/src/zigen/plugin/db/core/rule/sqlite
+END
+SqliteSQLCreatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/dbviewer/!svn/ver/207/DBViewer/branches/2.0.0/src/zigen/plugin/db/core/rule/sqlite/SqliteSQLCreatorFactory.java
+END
+SqliteMappingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/dbviewer/!svn/ver/207/DBViewer/branches/2.0.0/src/zigen/plugin/db/core/rule/sqlite/SqliteMappingFactory.java
+END

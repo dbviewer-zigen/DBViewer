@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/dbviewer/!svn/ver/254/DBViewer/branches/2.0.0/src
+END
+ResourceBundleMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dbviewer/!svn/ver/214/DBViewer/branches/2.0.0/src/ResourceBundleMessages.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/log4j.properties
+END
+ResourceBundleMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/ResourceBundleMessages_ja.properties
+END

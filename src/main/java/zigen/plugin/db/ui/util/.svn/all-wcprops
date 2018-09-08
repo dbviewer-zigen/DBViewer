@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/dbviewer/!svn/ver/241/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/util
+END
+ResourceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/util/ResourceUtil.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/util/FileUtil.java
+END
+ProjectUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/util/ProjectUtil.java
+END
+WidgetUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/dbviewer/!svn/ver/207/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/util/WidgetUtil.java
+END
+StyledTextUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/util/StyledTextUtil.java
+END
+LineNumberRulerColumnUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui/util/LineNumberRulerColumnUtil.java
+END

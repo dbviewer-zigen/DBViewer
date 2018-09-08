@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/dbviewer/!svn/ver/182/DBViewer/branches/2.0.0/schema
+END
+columnSearcherFactoryPoint.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/dbviewer/!svn/ver/164/DBViewer/branches/2.0.0/schema/columnSearcherFactoryPoint.exsd
+END
+schemaSearchFactoryPoint.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dbviewer/!svn/ver/165/DBViewer/branches/2.0.0/schema/schemaSearchFactoryPoint.exsd
+END
+selection.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/schema/selection.exsd
+END
+tableEditor.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/schema/tableEditor.exsd
+END
+tableInfoSearchFactoryPoint.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/dbviewer/!svn/ver/163/DBViewer/branches/2.0.0/schema/tableInfoSearchFactoryPoint.exsd
+END
+constraintSearcherFactoryPoint.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dbviewer/!svn/ver/163/DBViewer/branches/2.0.0/schema/constraintSearcherFactoryPoint.exsd
+END
+validatorFactoryPoint.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dbviewer/!svn/ver/163/DBViewer/branches/2.0.0/schema/validatorFactoryPoint.exsd
+END
+sourceSearcherFactoryPoint.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/dbviewer/!svn/ver/168/DBViewer/branches/2.0.0/schema/sourceSearcherFactoryPoint.exsd
+END
+typePoint.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dbviewer/!svn/ver/168/DBViewer/branches/2.0.0/schema/typePoint.exsd
+END
+statementFactoryPoint.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dbviewer/!svn/ver/163/DBViewer/branches/2.0.0/schema/statementFactoryPoint.exsd
+END
+queryEditor.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/schema/queryEditor.exsd
+END
+mappingFactoryPoint.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/dbviewer/!svn/ver/163/DBViewer/branches/2.0.0/schema/mappingFactoryPoint.exsd
+END
+sqlCreatorFactoryPoint.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dbviewer/!svn/ver/163/DBViewer/branches/2.0.0/schema/sqlCreatorFactoryPoint.exsd
+END
+explainActionFactoryPoint.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dbviewer/!svn/ver/182/DBViewer/branches/2.0.0/schema/explainActionFactoryPoint.exsd
+END

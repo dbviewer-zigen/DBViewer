@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/core/rule/postgresql
+END
+PostgreSQLMappingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/core/rule/postgresql/PostgreSQLMappingFactory.java
+END
+PostgreSQLSQLCreatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/dbviewer/!svn/ver/161/DBViewer/branches/2.0.0/src/zigen/plugin/db/core/rule/postgresql/PostgreSQLSQLCreatorFactory.java
+END
