@@ -54,7 +54,9 @@ import org.eclipse.ui.PartInitException;
 import org.eclipse.ui.PlatformUI;
 import org.eclipse.ui.internal.util.BundleUtility;
 import org.eclipse.ui.plugin.AbstractUIPlugin;
+import org.osgi.framework.Bundle;
 import org.osgi.framework.BundleContext;
+import org.osgi.framework.Version;
 
 import zigen.plugin.db.core.ConditionManager;
 import zigen.plugin.db.core.IDBConfig;
@@ -115,19 +117,28 @@ public class DbPlugin extends AbstractUIPlugin {
 		long time = Platform.getBundle(pluginId).getLastModified();
 		System.out.println(df.format(new Date(time)));
 
-		if(registry == null) {
-			return "2.0.0";
-		}else {
-//			IPluginDescriptor descriptor = registry.getPluginDescriptor(pluginId);
-//			PluginVersionIdentifier v = descriptor.getVersionIdentifier();
-//			int major = v.getMajorComponent();
-//			int minor = v.getMinorComponent();
-//			int service = v.getServiceComponent();
-//			String date = v.getQualifierComponent();
-//			return major + "." + minor + "." + service + " " + date;
-			return "unkown";
-
-		}
+//		if(registry == null) {
+//			return "2.0.0";
+//		}else {
+////			IPluginDescriptor descriptor = registry.getPluginDescriptor(pluginId);
+////			PluginVersionIdentifier v = descriptor.getVersionIdentifier();
+////			int major = v.getMajorComponent();
+////			int minor = v.getMinorComponent();
+////			int service = v.getServiceComponent();
+////			String date = v.getQualifierComponent();
+////			return major + "." + minor + "." + service + " " + date;
+//			return "unkown";
+//
+//		}
+		
+	    Bundle bundle = Platform.getBundle(pluginId);
+	    if (bundle != null) {
+	        // バージョン情報を取得
+	        Version version = bundle.getVersion();
+	        return version.toString(); // 例: "1.2.3.qualifier"
+	    }else {
+	    	return "2.0.0";
+	    }
 	}
 
 	public void stop(BundleContext context) throws Exception {

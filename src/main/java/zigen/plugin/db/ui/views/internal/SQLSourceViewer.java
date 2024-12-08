@@ -539,22 +539,20 @@ public class SQLSourceViewer extends ProjectionViewer implements ISQLOperationTa
 					DbPlugin.log(e);
 				}
 			}
-			
 
-			System.out.println("キー入力されました event:" + event.toString());
-			
-			
-			// Ctrl + Space
-			if ((event.stateMask == SWT.CTRL && event.character == ' ')
-				|| (event.stateMask == SWT.CTRL && event.keyCode == 32)) {
+			System.out.println("CONTENT ASSIST event.stateMask:" + event.stateMask);
+			System.out.println("CONTENT ASSIST event.character:'" + event.character+"'");
+			System.out.println("CONTENT ASSIST event.keyCode:" + event.keyCode);
+			// [Ctrl or Command] + Space
+			if (((event.stateMask == SWT.CTRL || event.stateMask == SWT.COMMAND ) && event.character == ' ')
+				|| ((event.stateMask == SWT.CTRL || event.stateMask == SWT.COMMAND ) && event.keyCode == 32)) {
 				
-				System.out.println("CONTENT ASSIST が実行されました");
+				System.out.println("CONTENT ASSIST が実行");
+				
 				if (canDoOperation(ISourceViewer.CONTENTASSIST_PROPOSALS))
 					doOperation(ISourceViewer.CONTENTASSIST_PROPOSALS);
 				event.doit = false;
 
-			}else {
-				System.out.println("CONTENT ASSIST が実行されません　event.stateMask:" + event.stateMask);
 			}
 			// Ctrl + D
 			if (event.stateMask == SWT.CTRL && event.keyCode == 100) {
