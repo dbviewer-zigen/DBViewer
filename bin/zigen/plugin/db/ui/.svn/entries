@@ -1,61 +1,0 @@
-10
-
-dir
-254
-https://svn.sourceforge.jp/svnroot/dbviewer/DBViewer/branches/2.0.0/src/zigen/plugin/db/ui
-https://svn.sourceforge.jp/svnroot/dbviewer
-
-
-
-2012-07-09T02:39:44.653361Z
-251
-makopoppo
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-2f4f0dfe-323b-0410-b955-da024bdfb0c0
-
-actions
-dir
-
-bookmark
-dir
-
-contentassist
-dir
-
-dialogs
-dir
-
-editors
-dir
-
-internal
-dir
-
-jobs
-dir
-
-popup
-dir
-
-util
-dir
-
-views
-dir
-
-wizard
-dir
-

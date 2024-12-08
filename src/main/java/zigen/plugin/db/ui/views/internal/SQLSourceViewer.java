@@ -539,13 +539,22 @@ public class SQLSourceViewer extends ProjectionViewer implements ISQLOperationTa
 					DbPlugin.log(e);
 				}
 			}
+			
+
+			System.out.println("キー入力されました event:" + event.toString());
+			
+			
 			// Ctrl + Space
 			if ((event.stateMask == SWT.CTRL && event.character == ' ')
 				|| (event.stateMask == SWT.CTRL && event.keyCode == 32)) {
+				
+				System.out.println("CONTENT ASSIST が実行されました");
 				if (canDoOperation(ISourceViewer.CONTENTASSIST_PROPOSALS))
 					doOperation(ISourceViewer.CONTENTASSIST_PROPOSALS);
 				event.doit = false;
 
+			}else {
+				System.out.println("CONTENT ASSIST が実行されません　event.stateMask:" + event.stateMask);
 			}
 			// Ctrl + D
 			if (event.stateMask == SWT.CTRL && event.keyCode == 100) {
@@ -560,7 +569,6 @@ public class SQLSourceViewer extends ProjectionViewer implements ISQLOperationTa
 				if (canDoOperation(ISQLOperationTarget.FORMAT)) {
 					doOperation(ISQLOperationTarget.FORMAT);
 				}
-
 				event.doit = false;
 			}
 
@@ -579,7 +587,6 @@ public class SQLSourceViewer extends ProjectionViewer implements ISQLOperationTa
 				}
 				event.doit = false;
 			}
-
 			// if(event.stateMask == SWT.SHIFT + SWT.TAB){
 			// doOperation();
 			// event.doit = false;

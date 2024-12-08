@@ -23,13 +23,14 @@ import java.util.Locale;
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;
 
+import org.eclipse.core.runtime.IExtensionRegistry;
 import org.eclipse.core.runtime.IPath;
-import org.eclipse.core.runtime.IPluginDescriptor;
-import org.eclipse.core.runtime.IPluginRegistry;
+//import org.eclipse.core.runtime.IPluginDescriptor;
+//import org.eclipse.core.runtime.IPluginRegistry;
 import org.eclipse.core.runtime.IStatus;
 import org.eclipse.core.runtime.Path;
 import org.eclipse.core.runtime.Platform;
-import org.eclipse.core.runtime.PluginVersionIdentifier;
+//import org.eclipse.core.runtime.PluginVersionIdentifier;
 import org.eclipse.core.runtime.Status;
 import org.eclipse.jface.dialogs.ErrorDialog;
 import org.eclipse.jface.dialogs.MessageDialog;
@@ -109,7 +110,7 @@ public class DbPlugin extends AbstractUIPlugin {
 	public static final String getPluginVersion(){
 		String pluginId = getPluginId();
 
-		IPluginRegistry registry = Platform.getPluginRegistry();
+		IExtensionRegistry registry = Platform.getExtensionRegistry();
 
 		long time = Platform.getBundle(pluginId).getLastModified();
 		System.out.println(df.format(new Date(time)));
@@ -117,13 +118,14 @@ public class DbPlugin extends AbstractUIPlugin {
 		if(registry == null) {
 			return "2.0.0";
 		}else {
-			IPluginDescriptor descriptor = registry.getPluginDescriptor(pluginId);
-			PluginVersionIdentifier v = descriptor.getVersionIdentifier();
-			int major = v.getMajorComponent();
-			int minor = v.getMinorComponent();
-			int service = v.getServiceComponent();
-			String date = v.getQualifierComponent();
-			return major + "." + minor + "." + service + " " + date;
+//			IPluginDescriptor descriptor = registry.getPluginDescriptor(pluginId);
+//			PluginVersionIdentifier v = descriptor.getVersionIdentifier();
+//			int major = v.getMajorComponent();
+//			int minor = v.getMinorComponent();
+//			int service = v.getServiceComponent();
+//			String date = v.getQualifierComponent();
+//			return major + "." + minor + "." + service + " " + date;
+			return "unkown";
 
 		}
 	}

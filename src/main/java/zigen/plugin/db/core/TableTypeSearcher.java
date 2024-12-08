@@ -33,6 +33,7 @@ public class TableTypeSearcher {
 			rs = objMet.getTableTypes();
 
 			list = new ArrayList();
+			
 			while (rs.next()) {
 				// list.add(rs.getString("TABLE_TYPE"));
 				// for sybase
@@ -47,11 +48,18 @@ public class TableTypeSearcher {
 				break;
 
 			default:
+				if(!list.contains("TABLE")) {
+					list.add("TABLE"); //$NON-NLS-1$
+				}
+				if(!list.contains("VIEW")) {
+					list.add("VIEW"); //$NON-NLS-1$
+				}
 				break;
 			}
 			return (String[]) list.toArray(new String[0]);
 
 		} catch (SQLException e) {
+
 
 			list = new ArrayList();
 			switch (DBType.getType(con.getMetaData())) {

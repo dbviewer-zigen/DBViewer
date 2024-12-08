@@ -58,7 +58,6 @@ public class ASTVisitorToBind implements IVisitor {
 		if(list != null){
 			for (Iterator iterator = list.iterator(); iterator.hasNext();) {
 				ASTBind bind = (ASTBind) iterator.next();
-				System.out.println(bind.toString());
 			}
 		}
 	}

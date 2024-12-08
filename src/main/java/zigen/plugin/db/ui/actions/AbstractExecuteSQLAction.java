@@ -120,7 +120,6 @@ abstract public class AbstractExecuteSQLAction extends SQLSourceViewerAction imp
 				multiTextEdit.addChild(re);				
 			}			
 			multiTextEdit.apply(doc);
-			System.out.println(doc.get());
 			sql = doc.get();				
 			return sql;
 		}

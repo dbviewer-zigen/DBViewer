@@ -1,34 +1,0 @@
-10
-
-dir
-254
-https://svn.sourceforge.jp/svnroot/dbviewer/DBViewer/branches/2.0.0/src/zigen/plugin/db/ext/oracle
-https://svn.sourceforge.jp/svnroot/dbviewer
-
-
-
-2010-04-20T09:31:16.931266Z
-207
-zigen
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-2f4f0dfe-323b-0410-b955-da024bdfb0c0
-
-internal
-dir
-
-tablespace
-dir
-
