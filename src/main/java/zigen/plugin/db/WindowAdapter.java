@@ -14,7 +14,6 @@ public class WindowAdapter implements IWindowListener {
 	}
 
 	public void windowClosed(IWorkbenchWindow window) {
-		//System.out.println(window.getClass().getName());
 	}
 
 	public void windowDeactivated(IWorkbenchWindow window) {
